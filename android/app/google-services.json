@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1087563432657",
+    "firebase_url": "https://firm-body.firebaseio.com",
+    "project_id": "firm-body",
+    "storage_bucket": "firm-body.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087563432657:android:e40e1f4d5ee4fa35",
+        "android_client_info": {
+          "package_name": "com.acrojuice.firm_body_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087563432657-1g5uopqojuj667tr11k3ns6p26hc7ftb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsGMORcml45ze6TDT3v-7BD64bS9MU0vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087563432657-1g5uopqojuj667tr11k3ns6p26hc7ftb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
